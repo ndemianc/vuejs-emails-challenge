@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+npm run serve
 ```
 
 ## OR using docker-compose
@@ -27,4 +27,4 @@ yarn run lint
 ```
 
 ### Later deployed version can be found at
-See [https://ndemianc.github.io/vuejs-emails-challenge/](https://ndemianc.github.io/vuejs-emails-challenge/).
+See [https://ndemianc.github.io/vuejs-emails-challenge/](https://ndemianc.github.io/vuejs-emails-challenge/)
