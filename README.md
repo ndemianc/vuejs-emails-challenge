@@ -1,5 +1,7 @@
 # vuejs-emails-challenge
 
+<img width="1792" alt="Screenshot 2022-07-11 at 16 44 35" src="https://user-images.githubusercontent.com/435962/178278470-87494c87-3e7f-43dc-8bb6-a64aa61617d6.png">
+
 ## Project setup
 ```
 npm install
